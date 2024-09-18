@@ -1,0 +1,11 @@
+﻿body {
+}
+.gender {
+    padding: 10px;
+}
+.custom-btn {
+    border-radius: 0.25rem; /* Fully rounded corners */
+}
+.custom-btn + .custom-btn {
+        margin-left: 10px; /* Add space between the buttons */
+}
